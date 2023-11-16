@@ -3,6 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+h1 {
+  color: rgb(49, 90, 144);
+
+  margin-bottom: 1.25rem;
+}
 .content {
   background-color: rgba(1, 20, 22, 0.462);
   width: 50%;
@@ -41,4 +46,9 @@
 
 .inputs {
   border-radius: 4px;
+}
+h2 {
+  margin-top: 1.25rem;
+  padding-left: 0.625rem;
+  color: rgb(157, 38, 157);
 }
