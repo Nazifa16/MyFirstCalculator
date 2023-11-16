@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.content {
+  background-color: rgba(1, 20, 22, 0.462);
+  width: 50%;
+  height: 50%;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.2);
+}
+.size {
+  width: 50%;
+  border-radius: 6px;
+  padding: 10px 10px;
+}
+.num1 {
+  margin-bottom: 1.25rem;
+}
+.inputs {
+  border-radius: 6px;
+  border-color: rgb(213, 170, 213);
+}
+.operator {
+  border-radius: 6px;
+  border-style: initial;
+  width: 22%;
+  margin: 10px 0.625rem;
+  padding: 8px 8px;
+}
+
+.multiplication-bg-color,
+.division-bg-color {
+  background-color: plum;
+}
+
+.substraction-bg-color,
+.addition-bg-color {
+  background-color: lightblue;
+}
+
+.inputs {
+  border-radius: 4px;
+}
